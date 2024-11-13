@@ -8,8 +8,6 @@ package org.example.challenge1;
 
 // code from Shaun Wassell's course [Funtional Programming with Java](https://www.linkedin.com/learning/functional-programming-with-java/coderpad-solution-applying-functional-concepts?resume=false&u=2012979)
 class Point {
-    static boolean showExpectedResult = false;
-    static boolean showHints = false;
 
     private float x;
     private float y;
